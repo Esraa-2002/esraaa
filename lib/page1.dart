@@ -22,7 +22,7 @@ class _page1State extends State<page1> {
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                Image.asset( "image/dna.png",height:350,width: 350,)
+                Image.asset("image/dna.png",height:350,width: 350,)
               ],
             )
           ],
